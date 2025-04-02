@@ -9,7 +9,7 @@ const Essence = () => {
 
 
 
-            <Link href={'/beginner'}>A Beginner's Guide</Link>
+            <Link href={'/beginner'}>A Beginner&apos;s Guide</Link>
             <Link href={'/intermediate'}>Intermediate</Link>
             <Link href={'/advanced'}>Advanced</Link>
         </div>
